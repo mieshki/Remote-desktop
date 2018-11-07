@@ -1,0 +1,11 @@
+C:\Users\mieshki\source\repos\RemoteDesktopViewer\RemoteDesktopViewer\bin\Debug\RemoteDesktopViewer.exe.config
+C:\Users\mieshki\source\repos\RemoteDesktopViewer\RemoteDesktopViewer\bin\Debug\RemoteDesktopViewer.exe
+C:\Users\mieshki\source\repos\RemoteDesktopViewer\RemoteDesktopViewer\bin\Debug\RemoteDesktopViewer.pdb
+C:\Users\mieshki\source\repos\RemoteDesktopViewer\RemoteDesktopViewer\obj\Debug\RemoteDesktopViewer.csprojAssemblyReference.cache
+C:\Users\mieshki\source\repos\RemoteDesktopViewer\RemoteDesktopViewer\obj\Debug\RemoteDesktopViewer.Properties.Resources.resources
+C:\Users\mieshki\source\repos\RemoteDesktopViewer\RemoteDesktopViewer\obj\Debug\RemoteDesktopViewer.csproj.GenerateResource.cache
+C:\Users\mieshki\source\repos\RemoteDesktopViewer\RemoteDesktopViewer\obj\Debug\RemoteDesktopViewer.csproj.CoreCompileInputs.cache
+C:\Users\mieshki\source\repos\RemoteDesktopViewer\RemoteDesktopViewer\obj\Debug\RemoteDesktopViewer.exe
+C:\Users\mieshki\source\repos\RemoteDesktopViewer\RemoteDesktopViewer\obj\Debug\RemoteDesktopViewer.pdb
+C:\Users\mieshki\source\repos\RemoteDesktopViewer\RemoteDesktopViewer\obj\Debug\RemoteDesktopViewer.RemoteDesktopViewerForm.resources
+C:\Users\mieshki\source\repos\RemoteDesktopViewer\RemoteDesktopViewer\obj\Debug\RemoteDesktopViewer.ReceivedDesktopImagesForm.resources
